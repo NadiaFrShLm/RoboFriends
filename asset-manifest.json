@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/css/main.6b053f50.css",
+    "main.js": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/js/main.ca111f9a.js",
+    "static/js/787.15a4a030.chunk.js": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/js/787.15a4a030.chunk.js",
+    "static/media/SEGA.woff": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/%20//github.com/NadiaFrShLm/RoboFriends.git/index.html",
+    "main.6b053f50.css.map": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/css/main.6b053f50.css.map",
+    "main.ca111f9a.js.map": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/js/main.ca111f9a.js.map",
+    "787.15a4a030.chunk.js.map": "/%20//github.com/NadiaFrShLm/RoboFriends.git/static/js/787.15a4a030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b053f50.css",
+    "static/js/main.ca111f9a.js"
+  ]
+}
